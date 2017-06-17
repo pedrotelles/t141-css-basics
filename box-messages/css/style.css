@@ -12,7 +12,7 @@
     margin: 10px;
     padding-left: 75px;
     line-height: 75px;
-    background: no-repeat 20px center;
+    background: no-repeat 23.5px center;
 }
 
 .info{
@@ -22,17 +22,20 @@
     color: #3e5d6f;
 }
 .error{
-    background-color: lightblue;
+    background-color:  #f2dedf;
     background-image: url(images/icon-error.png);
-    
+     border-color:#e2d4d3;
+    color: #8c433a;
 }
 .success{
-    background-color: lightblue;
+    background-color: #def0d8;
     background-image: url(images/icon-success.png);
-    
+     border-color:#d9e5cf;
+    color: #4e6841;
 }
 .warning{
-    background-color: lightblue;
+    background-color: #fbf8e5;
     background-image: url(images/icon-warning.png);
-    
+     border-color:#f4eddb;
+    color: #7f743c;
 }
