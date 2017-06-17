@@ -12,8 +12,27 @@
     margin: 10px;
     padding-left: 75px;
     line-height: 75px;
+    background: no-repeat 20px center;
 }
 
 .info{
+    background-color: #d7eef6;
+    background-image: url(images/icon-info.png);
+    border-color:#cee0e4;
+    color: #3e5d6f;
+}
+.error{
     background-color: lightblue;
+    background-image: url(images/icon-error.png);
+    
+}
+.success{
+    background-color: lightblue;
+    background-image: url(images/icon-success.png);
+    
+}
+.warning{
+    background-color: lightblue;
+    background-image: url(images/icon-warning.png);
+    
 }
